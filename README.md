@@ -4,7 +4,7 @@ An analog effects circuit for electric instruments, with gain staging and voicin
 
 ### Electronics and Wiring
 
-The parts were from a variety of sources; the transistors were new-old-stock silicon transistors found at electronics salvage retailers. Wired by hand on through-hole prototype board and housed in a Hammond enclosure.
+The components were sourced from Mouser, aside from the PCB from Aion; project is housed in a Hammond enclosure.
 
 ### Enclosure and Graphics
 
