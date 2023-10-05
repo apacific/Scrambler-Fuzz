@@ -11,7 +11,7 @@ The components were sourced from Mouser, aside from the PCB from Aion; project i
 A sheet of star stickers, together with a sheet of alphabet stickers from the Dollar Tree, were used as a mask to apply black enamel spray paint, which was then used as a mask to etch the aluminum enclosure with ferric chloride. Finished in rattle-can clearcoat in my basement.
 
 ![ready to begin](images/a.jpg?raw=true)
-![stickers applied](images/b?raw=true)
+![stickers applied](images/b.jpg?raw=true)
 ![after etching](images/c.jpg?raw=true)
 ![picked out knobs](images/d.jpg?raw=true)
 ![enclosure drilling](images/e.jpg?raw=true)
