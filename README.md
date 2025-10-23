@@ -1,6 +1,6 @@
 # Scrambler-Fuzz
 
-An analog effects circuit for electric instruments, with gain staging and voicing suitable for lead guitar. Based on the classic Scrambler by Ampeg.
+An analog effects circuit for electric instruments, with gain staging and voicing suitable for guitar, bass, and/or synthesizer. Based on the classic Scrambler by Ampeg.
 
 ### Electronics and Wiring
 
