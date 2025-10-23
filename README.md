@@ -4,9 +4,7 @@ An analog effects circuit for electric instruments, with gain staging and voicin
 
 ## Listen
 
-<video controls="" autoplay="" name="media">
-    <source src="https://github.com/apacific/Scrambler-Fuzz/blob/main/audio/scrambler-fuzz-sample.mp3?raw=true" type="audio/mp3">
-</video>
+[scrambler-fuzz-sample.mp3](https://github.com/user-attachments/files/23109042/scrambler-fuzz-sample.mp3)
 
 ### Electronics and Wiring
 
