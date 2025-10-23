@@ -2,6 +2,12 @@
 
 An analog effects circuit for electric instruments, with gain staging and voicing suitable for guitar, bass, and/or synthesizer. Based on the classic Scrambler by Ampeg.
 
+## Listen
+
+<video controls="" autoplay="" name="media">
+    <source src="https://github.com/apacific/Scrambler-Fuzz/blob/main/audio/scrambler-fuzz-sample.mp3?raw=true" type="audio/mp3">
+</video>
+
 ### Electronics and Wiring
 
 The components were sourced from Mouser, aside from the PCB from Aion; project is housed in a Hammond enclosure.
