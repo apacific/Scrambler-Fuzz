@@ -4,7 +4,7 @@ An analog effects circuit for electric instruments, with gain staging and voicin
 
 ## Listen
 
-In the following snippet, the Scrambler-Fuzz was used for guitar tracks:
+In the following snippet, the Scrambler-Fuzz was used for guitar tracks:  
 [scrambler-fuzz-sample.mp3](https://github.com/apacific/Scrambler-Fuzz/blob/main/audio/scrambler-fuzz-sample.mp3)
 
 ### Electronics and Wiring
